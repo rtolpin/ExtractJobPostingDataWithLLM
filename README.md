@@ -1,4 +1,4 @@
-````
+
 # Job Posting Structured Extraction with LangChain + Pydantic
 
 This project uses LangChain, OpenAI GPT models, and Pydantic to extract structured data from unstructured job postings.
@@ -261,4 +261,3 @@ python main.py
 - Export results to CSV or JSON
 
 ---
-````
